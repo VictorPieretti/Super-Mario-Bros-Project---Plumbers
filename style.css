@@ -10,8 +10,9 @@
 }
 
 p {
-    color: black;
+    color: white;
     font-size: 20px;
+    font-weight: bold;
 }
 
 button {
